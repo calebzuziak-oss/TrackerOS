@@ -1,0 +1,5 @@
+npx create-next-app@latest trackeros \
+--typescript \
+--tailwind \
+--eslint \
+--app
